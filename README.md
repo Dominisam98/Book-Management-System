@@ -49,7 +49,7 @@ to run the prisma studio
 
 Prisma Client is an auto-generated database client that's tailored to your database schema. By default, Prisma Client is generated into the node_modules/.prisma/client folder
 
-1. Ensure that you have Prisma CLI installed on your machine.
+-Ensure that you have Prisma CLI installed on your machine.
 
 **npm run dev** ....to start the development mode
 
