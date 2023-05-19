@@ -50,12 +50,6 @@ Prisma Client is an auto-generated database client that's tailored to your datab
 
 1. Ensure that you have Prisma CLI installed on your machine.
 
-2. Add the following generator definition to your Prisma schema in this file: book-management-system\prisma\schema.prisma
-
-**generator client {
-provider = "prisma-client-js"
-}**
-
 **npm run dev** ....to start the development mode
 
 **npm start** ....to start prod mode
@@ -72,3 +66,5 @@ cd book-management-system\frontend
 Book Management: Users can add new books to their collection by providing book details such as title, author, and publication year. They can also edit existing book information and delete books from their list of books.
 
 Responsive Design: The website is designed to be responsive, ensuring optimal user experience across different devices and screen sizes.
+
+Small note-- I really hope you guys like my project! It was a bit tough to implement simply for the fact I have no prior experience with Prisma or GraphQL so it was a challenge. It was very rewarding however and I hope this project demonstrates my determination to be a part of your team. I had a lot of sleepless nights trying to grasp the concept for this project but I finally got a grasp of what I was doing! I love challenges and I hope I was able to show that I'm able to grasp concepts in a short amount of time and apply to the best of my ability. I plan on adding authentication and pagination to this project because I finally see the true power of a graphQL backend. Thank you for your time!
