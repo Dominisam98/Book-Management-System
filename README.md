@@ -1,6 +1,5 @@
 # Book-Management-System
 
-
 # Technologies used to build this site...
 
 **React js** - for the frontend
@@ -13,12 +12,9 @@
 
 **Express** - for the server
 
-
-
 # Follow The Process To Run The Application
 
 install **node version 18** and **npm version 8**
-
 
 change the **DATABASE_URL** in your **.env** file
 **DATABASE_URL="mysql://root:password@localhost:3306/book_management" **//example
@@ -39,12 +35,11 @@ Data sources: Specify the details of the data sources Prisma should connect to (
 Generators: Specifies what clients should be generated based on the data model (e.g. Prisma Client)
 Data model definition: Specifies your application models (the shape of the data per data source) and their relations
 
-
 run these commands to generate the data source client code and to create a new migration
 
-**prisma generate**  //Reads all above mentioned information from the Prisma schema to generate the correct data source client code (e.g. Prisma Client).
+**prisma generate** //Reads all above mentioned information from the Prisma schema to generate the correct data source client code (e.g. Prisma Client).
 
-**prisma migrate dev**  //Reads the data sources and data model definition to create a new migration.
+**prisma migrate dev** //Reads the data sources and data model definition to create a new migration.
 
 to run the prisma studio
 **npm prisma studio**
@@ -58,14 +53,12 @@ Prisma Client is an auto-generated database client that's tailored to your datab
 2. Add the following generator definition to your Prisma schema in this file: book-management-system\prisma\schema.prisma
 
 **generator client {
-  provider = "prisma-client-js"
+provider = "prisma-client-js"
 }**
 
-**npm run dev**    ....to start the development mode
+**npm run dev** ....to start the development mode
 
-
-
-**npm start**      ....to start prod mode
+**npm start** ....to start prod mode
 
 # To Run The Front-End
 
@@ -74,11 +67,8 @@ cd book-management-system\frontend
 **npm start** //to start the frontend
 **npm run build** //to generate the build
 
-
-
 # Features
 
 Book Management: Users can add new books to their collection by providing book details such as title, author, and publication year. They can also edit existing book information and delete books from their list of books.
 
 Responsive Design: The website is designed to be responsive, ensuring optimal user experience across different devices and screen sizes.
-Technologies Used
