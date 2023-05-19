@@ -19,9 +19,10 @@ install **node version 18** and **npm version 8**
 change the **DATABASE_URL** in your **.env** file
 **DATABASE_URL="mysql://root:password@localhost:3306/book_management" **//example
 
-run these command from terminal...
 
 # To Run The Backend
+
+run these command from terminal...
 
 **npm install** (in root folder to download the packages to run the backend)
 
