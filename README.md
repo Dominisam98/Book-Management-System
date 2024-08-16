@@ -68,4 +68,4 @@ Book Management: Users can add new books to their collection by providing book d
 
 Responsive Design: The website is designed to be responsive, ensuring optimal user experience across different devices and screen sizes.
 
-Small note-- I really hope you guys like my project! It was a bit tough to implement simply for the fact I have no prior experience with Prisma or GraphQL so it was a challenge. 
+Small note-- I really hope you guys like my project! 
