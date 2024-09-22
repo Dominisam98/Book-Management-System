@@ -11,7 +11,7 @@ const App = () => {
           <ul className="navbar-items">
             <li className="navbar-list">
               <Link to="/">Home</Link>
-            </li>
+            </li> 
             <li className="navbar-list">
               <Link to="/create">Create Book</Link>
             </li>
