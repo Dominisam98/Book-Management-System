@@ -7,7 +7,7 @@ export const GET_BOOKS = gql`
       title
       publicationYear
       author
-      createdAt
+      createdAt 
       updatedAt
     }
   }
