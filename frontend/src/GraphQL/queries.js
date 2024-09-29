@@ -10,7 +10,7 @@ export const GET_BOOKS = gql`
       createdAt 
       updatedAt
     }
-  }
+  } 
 `;
 
 export const GET_BOOK = gql`
