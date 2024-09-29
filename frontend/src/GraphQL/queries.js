@@ -11,7 +11,7 @@ export const GET_BOOKS = gql`
       updatedAt
     }
   } 
-`;
+`; 
 
 export const GET_BOOK = gql`
   query GetBook($id: String!) {
