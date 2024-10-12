@@ -10,7 +10,7 @@ const App = () => {
         <nav className="navbar">
           <ul className="navbar-items">
             <li className="navbar-list">
-              <Link to="/">Home</Link>
+              <Link to="/">Home </Link>
             </li>
             <li className="navbar-list">
               <Link to="/create">Create Book</Link>
