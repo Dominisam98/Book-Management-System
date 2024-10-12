@@ -17,7 +17,7 @@ const App = () => {
             </li>
           </ul>
         </nav>
-        <Wrapper /> 
+        <Wrapper />  
       </div>
     </Router>
   ); 
