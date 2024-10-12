@@ -20,7 +20,7 @@ const App = () => {
         <Wrapper /> 
       </div>
     </Router>
-  );
+  ); 
 };
 
 export default App;
