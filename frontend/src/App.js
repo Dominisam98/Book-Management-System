@@ -7,7 +7,7 @@ const App = () => {
     <Router>
       <div className="nav-wrapper">
         <h2>Book Management System      </h2>
-        <nav className="navbar">  
+        <nav className="navbar">
           <ul className="navbar-items">
             <li className="navbar-list">
               <Link to="/">Home</Link>
