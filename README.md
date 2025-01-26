@@ -9,7 +9,7 @@
 **Prisma** - as the ORM
  
 **Apollo Client** - for GraphQL communication
-
+ 
 **Express** - for the server
 
 # Follow The Process To Run The Application
