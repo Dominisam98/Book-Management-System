@@ -15,7 +15,7 @@
 # Follow The Process To Run The Application
  
 install **node version 18** and **npm version 8**
-  
+
 change the **DATABASE_URL** in your **.env** file
 **DATABASE_URL="mysql://root:password@localhost:3306/book_management" **//example
 
