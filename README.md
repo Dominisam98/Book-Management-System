@@ -3,7 +3,7 @@
 # Technologies used to build this site...
 
 **React js** - for the frontend
- 
+  
 **Node js** - for the backend
 
 **Prisma** - as the ORM
